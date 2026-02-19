@@ -41,10 +41,15 @@ Currently gaining industry experience through internship projects involving XML 
 
 ## 📊 GitHub Stats
 
-![GitHub](https://img.shields.io/badge/GitHub-Zack--06-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zack-06&show_icons=true&theme=dark&count_private=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-06&layout=compact&theme=dark" width="350" />
+</p>
 
-**Username:** Zack-06  
-**Status:** Active 🚀
+## 🏆 GitHub Rank
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zack-06&theme=dark" />
+</p>
 
 
 ---
@@ -52,5 +57,5 @@ Currently gaining industry experience through internship projects involving XML 
 ## 📬 Contact
 - 💻 [GitHub](https://github.com/Zack-06)
 - 📧 [Email](mailto:zack.pangzk@gmail.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/yourlinkedin](https://linkedin.com/in/zackpang))
+- 💼 [LinkedIn](https://linkedin.com/in/zackpang)
 
