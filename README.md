@@ -40,7 +40,7 @@ Currently gaining industry experience through internship projects involving XML 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zack-06&show_icons=true)
 
 ---
 
