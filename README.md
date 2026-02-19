@@ -21,6 +21,9 @@ Currently gaining industry experience through internship projects involving XML 
 - C#
 - PHP
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
 **Frameworks & Tools**
 - ASP.NET (MVC)
 - .NET Framework
@@ -36,24 +39,7 @@ Currently gaining industry experience through internship projects involving XML 
 - Improving database performance
 - Writing clean stored procedures
 - System debugging & testing
-
----
-
-## 📊 GitHub Stats
-![GitHub](https://img.shields.io/badge/GitHub-Zack--06-181717?style=for-the-badge&logo=github&logoColor=white)
-<img src="https://github-readme-stats.vercel.app/api?username=zack-06&show_icons=true&theme=dark" />
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=zack-06&show_icons=true&theme=dark&count_private=true" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-06&layout=compact&theme=dark" width="350" />
-</p>
-
-## 🏆 GitHub Rank
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zack-06&theme=dark" />
-</p>
-
+- Web development 
 
 ---
 
