@@ -40,8 +40,8 @@ Currently gaining industry experience through internship projects involving XML 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
+![GitHub](https://img.shields.io/badge/GitHub-Zack--06-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=zack-06&show_icons=true&theme=dark&count_private=true" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-06&layout=compact&theme=dark" width="350" />
 </p>
