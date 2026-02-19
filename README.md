@@ -19,14 +19,6 @@ Currently gaining industry experience through internship projects involving XML 
 
 ---
 
-## 📌 Current Focus
-- Improving database performance
-- Writing clean stored procedures
-- System debugging & testing
-- Web development 
-
----
-
 ## 📬 Contact
 - 💻 [GitHub](https://github.com/Zack-06)
 - 📧 [Email](mailto:zack.pangzk@gmail.com)
