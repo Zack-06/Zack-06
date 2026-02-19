@@ -12,23 +12,10 @@ Currently gaining industry experience through internship projects involving XML 
 ## 🛠 Tech Stack
 
 **Programming Languages**
-- C#
-- Java
-- Python
-- JavaScript
-- HTML & CSS
-- SQL
-- C#
-- PHP
+- Java, Python, C++, HTML, CSS, PHP, JavaScript, C#
 
 **Frameworks & Tools**
-- ASP.NET (MVC)
-- .NET Framework
-- SQL Server
-- SSMS
-- Visual Studio
-- Git
-
+- ASP.NET (MVC), .NET Framework, SQL Server, SQL Server Management Studio(SSMS), Visual Studio, Git
 
 ---
 
