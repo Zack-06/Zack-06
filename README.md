@@ -42,13 +42,13 @@ Currently gaining industry experience through internship projects involving XML 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zack-06&show_icons=true&theme=dark&count_private=true" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-06&layout=compact&theme=dark" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zack-06&show_icons=true&theme=dark&count_private=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-06&layout=compact&theme=dark" width="350" />
 </p>
 
 ## 🏆 GitHub Rank
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zack-06&theme=dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zack-06&theme=dark" />
 </p>
 
 
