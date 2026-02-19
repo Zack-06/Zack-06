@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Zack Pang Zhi Kang👋
 
-<!--
-**Zack-06/Zack-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Diploma in Information Technology Student
+📍 Kuala Lumpur, Malaysia  
+🚀 Currently Studying In Tunku Abdul Rahman University of Management and Technology(TARUMT) 
 
-Here are some ideas to get you started:
+I build full-stack web applications using ASP.NET (C#), SQL Server, HTML, CSS, and JavaScript.  
+Currently gaining industry experience through internship projects involving XML integration and database systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Programming Languages**
+- C#
+- Java
+- Python
+- JavaScript
+- HTML & CSS
+- SQL
+- C#
+- PHP
+
+**Frameworks & Tools**
+- ASP.NET (MVC)
+- .NET Framework
+- SQL Server
+- SSMS
+- Visual Studio
+- Git
+
+
+---
+
+## 📌 Current Focus
+- Improving database performance
+- Writing clean stored procedures
+- System debugging & testing
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📬 Contact
+- 💻 [GitHub](https://github.com/Zack-06)
+- 📧 [Email](mailto:zack.pangzk@gmail.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/yourlinkedin](https://linkedin.com/in/zackpang))
+
