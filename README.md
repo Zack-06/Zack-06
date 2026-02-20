@@ -21,6 +21,5 @@ Currently gaining industry experience through internship projects involving XML 
 
 ## 📬 Contact
 - 💻 [GitHub](https://github.com/Zack-06)
-- 📧 [Email](mailto:zack.pangzk@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/zackpang)
 
