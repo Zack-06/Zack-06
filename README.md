@@ -13,6 +13,7 @@ Currently gaining industry experience through internship projects involving XML 
 
 **Programming Languages**
 - Java, Python, C++, HTML, CSS, PHP, JavaScript, C#
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Frameworks & Tools**
 - ASP.NET (MVC), .NET Framework, SQL Server, SQL Server Management Studio(SSMS), Visual Studio, Git
