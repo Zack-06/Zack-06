@@ -1,4 +1,4 @@
-# Hi, I'm Zack Pang Zhi Kang 👋
+# Hi, I'm Pang Zhi Kang (Zack) 👋
 
 ## 🌟 About Me
 
